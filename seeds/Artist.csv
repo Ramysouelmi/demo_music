@@ -1,0 +1,276 @@
+ArtistId,Name,BirthYear,Country
+1,AC/DC,1990.0,Indonesia
+2,Accept,1994.0,Mexico
+3,Aerosmith,2012.0,Portugal
+4,Alanis Morissette,1997.0,Pakistan
+5,Alice In Chains,1999.0,Indonesia
+6,Antônio Carlos Jobim,2006.0,Denmark
+7,Apocalyptica,2012.0,China
+8,Audioslave,2012.0,Sweden
+9,BackBeat,2007.0,Solomon Islands
+10,Billy Cobham,1984.0,Kosovo
+11,Black Label Society,2002.0,Philippines
+12,Black Sabbath,1997.0,China
+13,Body Count,1986.0,Brazil
+14,Bruce Dickinson,2007.0,Iran
+15,Buddy Guy,2002.0,Czech Republic
+16,Caetano Veloso,1994.0,China
+17,Chico Buarque,2009.0,Mexico
+18,Chico Science & Nação Zumbi,1989.0,France
+19,Cidade Negra,1992.0,China
+20,Cláudio Zoli,2008.0,Croatia
+21,Various Artists,2001.0,Philippines
+22,Led Zeppelin,2009.0,Indonesia
+23,Frank Zappa & Captain Beefheart,1998.0,Mexico
+24,Marcos Valle,1992.0,Philippines
+25,Milton Nascimento & Bebeto,1997.0,Sweden
+26,Azymuth,1994.0,Poland
+27,Gilberto Gil,2003.0,Russia
+28,João Gilberto,2007.0,Philippines
+29,Bebel Gilberto,2009.0,Russia
+30,Jorge Vercilo,1993.0,Moldova
+31,Baby Consuelo,2004.0,Iran
+32,Ney Matogrosso,2002.0,China
+33,Luiz Melodia,1996.0,Portugal
+34,Nando Reis,2008.0,China
+35,Pedro Luís & A Parede,2004.0,Poland
+36,O Rappa,1993.0,Syria
+37,Ed Motta,1998.0,Portugal
+38,Banda Black Rio,1999.0,China
+39,Fernanda Porto,1998.0,South Africa
+40,Os Cariocas,2008.0,Poland
+41,Elis Regina,1989.0,Serbia
+42,Milton Nascimento,1998.0,France
+43,A Cor Do Som,1992.0,United States
+44,Kid Abelha,2003.0,China
+45,Sandra De Sá,1986.0,Sweden
+46,Jorge Ben,1993.0,China
+47,Hermeto Pascoal,1965.0,Indonesia
+48,Barão Vermelho,2008.0,Kyrgyzstan
+49,Edson; DJ Marky & DJ Patife Featuring Fernanda Porto,2008.0,Mexico
+50,Metallica,2010.0,Indonesia
+51,Queen,2010.0,Albania
+52,Kiss,1993.0,Denmark
+53,Spyro Gyra,2006.0,China
+54,Green Day,2008.0,Canada
+55,David Coverdale,1999.0,Indonesia
+56,Gonzaguinha,2001.0,Canada
+57,Os Mutantes,2008.0,Philippines
+58,Deep Purple,2012.0,China
+59,Santana,1996.0,Thailand
+60,Santana Feat. Dave Matthews,2011.0,Greece
+61,Santana Feat. Everlast,2007.0,China
+62,Santana Feat. Rob Thomas,1998.0,China
+63,Santana Feat. Lauryn Hill & Cee-Lo,2008.0,Russia
+64,Santana Feat. The Project G&B,1997.0,Ukraine
+65,Santana Feat. Maná,2011.0,Syria
+66,Santana Feat. Eagle-Eye Cherry,1985.0,Colombia
+67,Santana Feat. Eric Clapton,2001.0,Greece
+68,Miles Davis,2002.0,Armenia
+69,Gene Krupa,1996.0,United States
+70,Toquinho & Vinícius,2006.0,Portugal
+71,Vinícius De Moraes & Baden Powell,1996.0,Nigeria
+72,Vinícius De Moraes,1994.0,Sweden
+73,Vinícius E Qurteto Em Cy,2006.0,Indonesia
+74,Vinícius E Odette Lara,1998.0,Brazil
+75,Vinicius; Toquinho & Quarteto Em Cy,2013.0,Portugal
+76,Creedence Clearwater Revival,1999.0,China
+77,Cássia Eller,2006.0,Canada
+78,Def Leppard,2004.0,Ukraine
+79,Dennis Chambers,1997.0,Colombia
+80,Djavan,2007.0,United States
+81,Eric Clapton,2011.0,France
+82,Faith No More,2002.0,Colombia
+83,Falamansa,1997.0,Ukraine
+84,Foo Fighters,1999.0,Portugal
+85,Frank Sinatra,2004.0,China
+86,Funk Como Le Gusta,1995.0,China
+87,Godsmack,1993.0,Philippines
+88,Guns N'' Roses,1984.0,Panama
+89,Incognito,2008.0,China
+90,Iron Maiden,2009.0,Thailand
+91,James Brown,1986.0,China
+92,Jamiroquai,1994.0,Russia
+93,JET,2000.0,China
+94,Jimi Hendrix,2009.0,Indonesia
+95,Joe Satriani,1998.0,Canada
+96,Jota Quest,1998.0,Slovenia
+97,João Suplicy,2002.0,Russia
+98,Judas Priest,2008.0,Hungary
+99,Legião Urbana,2007.0,Indonesia
+100,Lenny Kravitz,1997.0,Indonesia
+101,Lulu Santos,1999.0,China
+102,Marillion,1996.0,Morocco
+103,Marisa Monte,1993.0,Chile
+104,Marvin Gaye,1995.0,Indonesia
+105,Men At Work,1999.0,Ukraine
+106,Motörhead,2007.0,China
+107,Motörhead & Girlschool,2011.0,Bolivia
+108,Mônica Marianno,1992.0,China
+109,Mötley Crüe,2010.0,Philippines
+110,Nirvana,1995.0,Indonesia
+111,O Terço,2009.0,Russia
+112,Olodum,1999.0,Indonesia
+113,Os Paralamas Do Sucesso,2013.0,Argentina
+114,Ozzy Osbourne,1990.0,Nigeria
+115,Page & Plant,2003.0,Uganda
+116,Passengers,1995.0,Russia
+117,Paul D''Ianno,2012.0,China
+118,Pearl Jam,2007.0,Brazil
+119,Peter Tosh,2006.0,Honduras
+120,Pink Floyd,2002.0,Philippines
+121,Planet Hemp,1986.0,China
+122,R.E.M. Feat. Kate Pearson,1996.0,Czech Republic
+123,R.E.M. Feat. KRS-One,2006.0,Indonesia
+124,R.E.M.,2009.0,Ukraine
+125,Raimundos,2007.0,Portugal
+126,Raul Seixas,2008.0,Portugal
+127,Red Hot Chili Peppers,2000.0,Russia
+128,Rush,1995.0,Norway
+129,Simply Red,1972.0,Indonesia
+130,Skank,2004.0,Nigeria
+131,Smashing Pumpkins,1998.0,France
+132,Soundgarden,1994.0,Brazil
+133,Stevie Ray Vaughan & Double Trouble,2010.0,Indonesia
+134,Stone Temple Pilots,2000.0,Kazakhstan
+135,System Of A Down,1991.0,China
+136,Terry Bozzio; Tony Levin & Steve Stevens,1994.0,Russia
+137,The Black Crowes,2001.0,Bulgaria
+138,The Clash,1996.0,Poland
+139,The Cult,2004.0,South Africa
+140,The Doors,2012.0,Indonesia
+141,The Police,1994.0,Ukraine
+142,The Rolling Stones,1964.0,France
+143,The Tea Party,1998.0,China
+144,The Who,1998.0,Sweden
+145,Tim Maia,2006.0,Philippines
+146,Titãs,1993.0,Czech Republic
+147,Battlestar Galactica,2004.0,Mongolia
+148,Heroes,2011.0,Argentina
+149,Lost,1995.0,Russia
+150,U2,1999.0,Philippines
+151,UB40,1998.0,Dominican Republic
+152,Van Halen,1984.0,Japan
+153,Velvet Revolver,1968.0,China
+154,Whitesnake,2010.0,China
+155,Zeca Pagodinho,1997.0,Vietnam
+156,The Office,2006.0,Brazil
+157,Dread Zeppelin,2009.0,China
+158,Battlestar Galactica (Classic),1994.0,Thailand
+159,Aquaman,1996.0,Russia
+160,Christina Aguilera featuring BigElf,2003.0,Mexico
+161,Aerosmith & Sierra Leone''s Refugee Allstars,1985.0,Northern Mariana Islands
+162,Los Lonely Boys,2010.0,China
+163,Corinne Bailey Rae,2010.0,Brazil
+164,Dhani Harrison & Jakob Dylan,2012.0,Brazil
+165,Jackson Browne,2010.0,Philippines
+166,Avril Lavigne,2003.0,Afghanistan
+167,Big & Rich,2000.0,Canada
+168,Youssou N''Dour,2004.0,China
+169,Black Eyed Peas,1995.0,Iran
+170,Jack Johnson,2001.0,Philippines
+171,Ben Harper,2003.0,Malaysia
+172,Snow Patrol,2002.0,Croatia
+173,Matisyahu,1995.0,Afghanistan
+174,The Postal Service,1988.0,Ivory Coast
+175,Jaguares,1997.0,Indonesia
+176,The Flaming Lips,1989.0,Philippines
+177,Jack''s Mannequin & Mick Fleetwood,1998.0,Finland
+178,Regina Spektor,2013.0,China
+179,Scorpions,1993.0,Netherlands
+180,House Of Pain,2005.0,Guinea-Bissau
+181,Xis,2006.0,China
+182,Nega Gizza,2012.0,China
+183,Gustavo & Andres Veiga & Salazar,1991.0,El Salvador
+184,Rodox,1988.0,Mauritius
+185,Charlie Brown Jr.,2011.0,Russia
+186,Pedro Luís E A Parede,2007.0,Uganda
+187,Los Hermanos,2006.0,Indonesia
+188,Mundo Livre S/A,2004.0,Bosnia and Herzegovina
+189,Otto,2005.0,Armenia
+190,Instituto,2006.0,United States
+191,Nação Zumbi,2007.0,Indonesia
+192,DJ Dolores & Orchestra Santa Massa,2000.0,Philippines
+193,Seu Jorge,1993.0,Peru
+194,Sabotage E Instituto,1993.0,Russia
+195,Stereo Maracana,2011.0,Portugal
+196,Cake,1988.0,Indonesia
+197,Aisha Duo,1993.0,Indonesia
+198,Habib Koité and Bamada,2002.0,Russia
+199,Karsh Kale,1985.0,Brazil
+200,The Posies,1989.0,France
+201,Luciana Souza/Romero Lubambo,1997.0,Indonesia
+202,Aaron Goldberg,2003.0,Indonesia
+203,Nicolaus Esterhazy Sinfonia,2005.0,China
+204,Temple of the Dog,2006.0,Armenia
+205,Chris Cornell,2002.0,South Africa
+206,Alberto Turco & Nova Schola Gregoriana,2011.0,Palestinian Territory
+207,Richard Marlow & The Choir of Trinity College; Cambridge,1993.0,Guinea
+208,English Concert & Trevor Pinnock,2005.0,Peru
+209,Anne-Sophie Mutter; Herbert Von Karajan & Wiener Philharmoniker,1992.0,Portugal
+210,Hilary Hahn; Jeffrey Kahane; Los Angeles Chamber Orchestra & Margaret Batjer,2010.0,France
+211,Wilhelm Kempff,2002.0,Indonesia
+212,Yo-Yo Ma,2008.0,Suriname
+213,Scholars Baroque Ensemble,2007.0,Russia
+214,Academy of St. Martin in the Fields & Sir Neville Marriner,2010.0,Portugal
+215,Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner,1996.0,Poland
+216,Berliner Philharmoniker; Claudio Abbado & Sabine Meyer,2006.0,Indonesia
+217,Royal Philharmonic Orchestra & Sir Thomas Beecham,1992.0,Philippines
+218,Orchestre Révolutionnaire et Romantique & John Eliot Gardiner,2010.0,Poland
+219,Britten Sinfonia; Ivor Bolton & Lesley Garrett,1998.0,China
+220,Chicago Symphony Chorus; Chicago Symphony Orchestra & Sir Georg Solti,1995.0,South Africa
+221,Sir Georg Solti & Wiener Philharmoniker,1994.0,Brazil
+222,Academy of St. Martin in the Fields; John Birch; Sir Neville Marriner & Sylvia McNair,1985.0,Mexico
+223,London Symphony Orchestra & Sir Charles Mackerras,2005.0,China
+224,Barry Wordsworth & BBC Concert Orchestra,2004.0,Japan
+225,Herbert Von Karajan; Mirella Freni & Wiener Philharmoniker,1987.0,Albania
+226,Eugene Ormandy,2010.0,Honduras
+227,Luciano Pavarotti,1950.0,Palestinian Territory
+228,Leonard Bernstein & New York Philharmonic,1984.0,Egypt
+229,Boston Symphony Orchestra & Seiji Ozawa,2008.0,Brazil
+230,Aaron Copland & London Symphony Orchestra,1997.0,China
+231,Ton Koopman,1992.0,Indonesia
+232,Sergei Prokofiev & Yuri Temirkanov,1992.0,China
+233,Chicago Symphony Orchestra & Fritz Reiner,2004.0,Greece
+234,Orchestra of The Age of Enlightenment,2006.0,China
+235,Emanuel Ax; Eugene Ormandy & Philadelphia Orchestra,2000.0,Peru
+236,James Levine,2010.0,Russia
+237,Berliner Philharmoniker & Hans Rosbaud,2011.0,Philippines
+238,Maurizio Pollini,1985.0,China
+239,Academy of St. Martin in the Fields; Sir Neville Marriner & William Bennett,2007.0,Sweden
+240,Gustav Mahler,1995.0,China
+241,Felix Schmidt; London Symphony Orchestra & Rafael Frühbeck de Burgos,1985.0,Iran
+242,Edo de Waart & San Francisco Symphony,2002.0,Indonesia
+243,Antal Doráti & London Symphony Orchestra,1999.0,Brazil
+244,Choir Of Westminster Abbey & Simon Preston,1990.0,Czech Republic
+245,Michael Tilson Thomas & San Francisco Symphony,2000.0,Sweden
+246,Chor der Wiener Staatsoper; Herbert Von Karajan & Wiener Philharmoniker,1977.0,Argentina
+247,The King''s Singers,2012.0,Russia
+248,Berliner Philharmoniker & Herbert Von Karajan,1984.0,China
+249,Sir Georg Solti; Sumi Jo & Wiener Philharmoniker,1992.0,United States
+250,Christopher O''Riley,1992.0,Indonesia
+251,Fretwork,1994.0,United States
+252,Amy Winehouse,1997.0,Bulgaria
+253,Calexico,1997.0,Brazil
+254,Otto Klemperer & Philharmonia Orchestra,1996.0,Guatemala
+255,Yehudi Menuhin,1996.0,Saint Kitts and Nevis
+256,Philharmonia Orchestra & Sir Neville Marriner,2002.0,China
+257,Academy of St. Martin in the Fields; Sir Neville Marriner & Thurston Dart,1994.0,China
+258,Les Arts Florissants & William Christie,2001.0,China
+259,The 12 Cellists of The Berlin Philharmonic,2000.0,Greece
+260,Adrian Leaper & Doreen de Feis,2000.0,Indonesia
+261,Roger Norrington; London Classical Players,2008.0,Indonesia
+262,Charles Dutoit & L''Orchestre Symphonique de Montréal,2011.0,Czech Republic
+263,Equale Brass Ensemble; John Eliot Gardiner & Munich Monteverdi Orchestra and Choir,1994.0,Philippines
+264,Kent Nagano and Orchestre de l''Opéra de Lyon,2007.0,Venezuela
+265,Julian Bream,1999.0,China
+266,Martin Roscoe,1995.0,New Caledonia
+267,Göteborgs Symfoniker & Neeme Järvi,1967.0,Colombia
+268,Itzhak Perlman,1997.0,Chile
+269,Michele Campanella,1995.0,Poland
+270,Gerald Moore,2007.0,China
+271,Mela Tenenbaum; Pro Musica Prague & Richard Kapp,2006.0,Malawi
+272,Emerson String Quartet,1984.0,Czech Republic
+273,C. Monteverdi; Nigel Rogers - Chiaroscuro; London Baroque; London Cornett & Sackbu,1991.0,China
+274,Nash Ensemble,1994.0,China
+275,Philip Glass Ensemble,1980.0,France

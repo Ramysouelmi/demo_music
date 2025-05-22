@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: music_raw
+    database: DEMO_MUSIC      # ton database dbt
+    schema: PUBLIC            # ton schéma où tu as chargé les CSV
+    tables:
+      - name: Artist
+      - name: Album
+      - name: Genre
+      - name: Track
+      - name: Playlist
+      - name: PlaylistTrack

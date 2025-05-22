@@ -1,0 +1,24 @@
+[0m15:39:48  Running with dbt=1.8.7
+[0m15:39:50  Registered adapter: snowflake=1.8.4
+[0m15:39:50  Found 6 seeds, 25 models, 6 sources, 454 macros
+[0m15:39:50  
+[0m15:39:51  Concurrency: 1 threads (target='dev')
+[0m15:39:51  
+[0m15:39:51  1 of 6 START seed file PUBLIC.Album ............................................ [RUN]
+[0m15:39:53  1 of 6 OK loaded seed file PUBLIC.Album ........................................ [[32mINSERT 347[0m in 1.56s]
+[0m15:39:53  2 of 6 START seed file PUBLIC.Artist ........................................... [RUN]
+[0m15:39:54  2 of 6 OK loaded seed file PUBLIC.Artist ....................................... [[32mINSERT 275[0m in 1.32s]
+[0m15:39:54  3 of 6 START seed file PUBLIC.Genre ............................................ [RUN]
+[0m15:39:56  3 of 6 OK loaded seed file PUBLIC.Genre ........................................ [[32mINSERT 25[0m in 1.35s]
+[0m15:39:56  4 of 6 START seed file PUBLIC.Playlist ......................................... [RUN]
+[0m15:39:57  4 of 6 OK loaded seed file PUBLIC.Playlist ..................................... [[32mINSERT 18[0m in 1.21s]
+[0m15:39:57  5 of 6 START seed file PUBLIC.PlaylistTrack .................................... [RUN]
+[0m15:40:00  5 of 6 OK loaded seed file PUBLIC.PlaylistTrack ................................ [[32mINSERT 8715[0m in 3.00s]
+[0m15:40:00  6 of 6 START seed file PUBLIC.Track ............................................ [RUN]
+[0m15:40:04  6 of 6 OK loaded seed file PUBLIC.Track ........................................ [[32mINSERT 3503[0m in 4.51s]
+[0m15:40:04  
+[0m15:40:04  Finished running 6 seeds in 0 hours 0 minutes and 14.33 seconds (14.33s).
+[0m15:40:05  
+[0m15:40:05  [32mCompleted successfully[0m
+[0m15:40:05  
+[0m15:40:05  Done. PASS=6 WARN=0 ERROR=0 SKIP=0 TOTAL=6

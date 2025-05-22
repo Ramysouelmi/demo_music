@@ -1,0 +1,36 @@
+[0m15:40:23  Running with dbt=1.8.7
+[0m15:40:24  Registered adapter: snowflake=1.8.4
+[0m15:40:24  Found 6 seeds, 25 models, 6 sources, 454 macros
+[0m15:40:24  The selection criterion '' does not match any enabled nodes
+[0m15:40:24  The selection criterion '' does not match any enabled nodes
+[0m15:40:24  
+[0m15:40:26  Concurrency: 1 threads (target='dev')
+[0m15:40:26  
+[0m15:40:26  1 of 11 START sql view model PUBLIC.album_count_per_artist ..................... [RUN]
+[0m15:40:26  1 of 11 OK created sql view model PUBLIC.album_count_per_artist ................ [[32mSUCCESS 1[0m in 0.60s]
+[0m15:40:26  2 of 11 START sql view model PUBLIC.albums_more_than_one_cd .................... [RUN]
+[0m15:40:27  2 of 11 OK created sql view model PUBLIC.albums_more_than_one_cd ............... [[32mSUCCESS 1[0m in 0.45s]
+[0m15:40:27  3 of 11 START sql view model PUBLIC.avg_track_duration_by_genre ................ [RUN]
+[0m15:40:27  3 of 11 OK created sql view model PUBLIC.avg_track_duration_by_genre ........... [[32mSUCCESS 1[0m in 0.46s]
+[0m15:40:27  4 of 11 START sql view model PUBLIC.most_listened_genre_2000s .................. [RUN]
+[0m15:40:28  4 of 11 OK created sql view model PUBLIC.most_listened_genre_2000s ............. [[32mSUCCESS 1[0m in 0.60s]
+[0m15:40:28  5 of 11 START sql view model PUBLIC.playlists_artists_before_1990 .............. [RUN]
+[0m15:40:28  5 of 11 OK created sql view model PUBLIC.playlists_artists_before_1990 ......... [[32mSUCCESS 1[0m in 0.50s]
+[0m15:40:28  6 of 11 START sql view model PUBLIC.playlists_with_long_tracks ................. [RUN]
+[0m15:40:29  6 of 11 OK created sql view model PUBLIC.playlists_with_long_tracks ............ [[32mSUCCESS 1[0m in 0.54s]
+[0m15:40:29  7 of 11 START sql view model PUBLIC.rock_jazz_composers ........................ [RUN]
+[0m15:40:29  7 of 11 OK created sql view model PUBLIC.rock_jazz_composers ................... [[32mSUCCESS 1[0m in 0.49s]
+[0m15:40:29  8 of 11 START sql view model PUBLIC.rock_tracks_france_artists ................. [RUN]
+[0m15:40:30  8 of 11 OK created sql view model PUBLIC.rock_tracks_france_artists ............ [[32mSUCCESS 1[0m in 0.47s]
+[0m15:40:30  9 of 11 START sql view model PUBLIC.top10_longest_albums ....................... [RUN]
+[0m15:40:30  9 of 11 OK created sql view model PUBLIC.top10_longest_albums .................. [[32mSUCCESS 1[0m in 0.48s]
+[0m15:40:30  10 of 11 START sql view model PUBLIC.track_count_per_artist .................... [RUN]
+[0m15:40:31  10 of 11 OK created sql view model PUBLIC.track_count_per_artist ............... [[32mSUCCESS 1[0m in 0.49s]
+[0m15:40:31  11 of 11 START sql view model PUBLIC.tracks_2000_2002 .......................... [RUN]
+[0m15:40:31  11 of 11 OK created sql view model PUBLIC.tracks_2000_2002 ..................... [[32mSUCCESS 1[0m in 0.50s]
+[0m15:40:31  
+[0m15:40:31  Finished running 11 view models in 0 hours 0 minutes and 6.96 seconds (6.96s).
+[0m15:40:31  
+[0m15:40:31  [32mCompleted successfully[0m
+[0m15:40:31  
+[0m15:40:31  Done. PASS=11 WARN=0 ERROR=0 SKIP=0 TOTAL=11

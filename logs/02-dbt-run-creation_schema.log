@@ -1,0 +1,38 @@
+[0m15:38:44  Running with dbt=1.8.7
+[0m15:38:45  Registered adapter: snowflake=1.8.4
+[0m15:38:46  Found 6 seeds, 25 models, 6 sources, 454 macros
+[0m15:38:46  The selection criterion '' does not match any enabled nodes
+[0m15:38:46  The selection criterion '' does not match any enabled nodes
+[0m15:38:46  
+[0m15:38:47  Concurrency: 1 threads (target='dev')
+[0m15:38:47  
+[0m15:38:47  1 of 12 START sql view model PUBLIC.stg_album .................................. [RUN]
+[0m15:38:48  1 of 12 OK created sql view model PUBLIC.stg_album ............................. [[32mSUCCESS 1[0m in 0.60s]
+[0m15:38:48  2 of 12 START sql view model PUBLIC.stg_artist ................................. [RUN]
+[0m15:38:48  2 of 12 OK created sql view model PUBLIC.stg_artist ............................ [[32mSUCCESS 1[0m in 0.49s]
+[0m15:38:48  3 of 12 START sql view model PUBLIC.stg_genre .................................. [RUN]
+[0m15:38:49  3 of 12 OK created sql view model PUBLIC.stg_genre ............................. [[32mSUCCESS 1[0m in 0.62s]
+[0m15:38:49  4 of 12 START sql view model PUBLIC.stg_playlist ............................... [RUN]
+[0m15:38:49  4 of 12 OK created sql view model PUBLIC.stg_playlist .......................... [[32mSUCCESS 1[0m in 0.46s]
+[0m15:38:49  5 of 12 START sql view model PUBLIC.stg_playlisttrack .......................... [RUN]
+[0m15:38:50  5 of 12 OK created sql view model PUBLIC.stg_playlisttrack ..................... [[32mSUCCESS 1[0m in 0.47s]
+[0m15:38:50  6 of 12 START sql view model PUBLIC.stg_track .................................. [RUN]
+[0m15:38:50  6 of 12 OK created sql view model PUBLIC.stg_track ............................. [[32mSUCCESS 1[0m in 0.51s]
+[0m15:38:50  7 of 12 START sql table model PUBLIC.dim_album ................................. [RUN]
+[0m15:38:52  7 of 12 OK created sql table model PUBLIC.dim_album ............................ [[32mSUCCESS 1[0m in 1.27s]
+[0m15:38:52  8 of 12 START sql table model PUBLIC.dim_artist ................................ [RUN]
+[0m15:38:53  8 of 12 OK created sql table model PUBLIC.dim_artist ........................... [[32mSUCCESS 1[0m in 1.03s]
+[0m15:38:53  9 of 12 START sql table model PUBLIC.dim_genre ................................. [RUN]
+[0m15:38:54  9 of 12 OK created sql table model PUBLIC.dim_genre ............................ [[32mSUCCESS 1[0m in 0.87s]
+[0m15:38:54  10 of 12 START sql table model PUBLIC.dim_playlist ............................. [RUN]
+[0m15:38:55  10 of 12 OK created sql table model PUBLIC.dim_playlist ........................ [[32mSUCCESS 1[0m in 1.25s]
+[0m15:38:55  11 of 12 START sql table model PUBLIC.fact_playlist_track ...................... [RUN]
+[0m15:38:56  11 of 12 OK created sql table model PUBLIC.fact_playlist_track ................. [[32mSUCCESS 1[0m in 0.83s]
+[0m15:38:56  12 of 12 START sql table model PUBLIC.dim_track ................................ [RUN]
+[0m15:38:56  12 of 12 OK created sql table model PUBLIC.dim_track ........................... [[32mSUCCESS 1[0m in 0.87s]
+[0m15:38:56  
+[0m15:38:56  Finished running 6 view models, 6 table models in 0 hours 0 minutes and 10.97 seconds (10.97s).
+[0m15:38:57  
+[0m15:38:57  [32mCompleted successfully[0m
+[0m15:38:57  
+[0m15:38:57  Done. PASS=12 WARN=0 ERROR=0 SKIP=0 TOTAL=12
